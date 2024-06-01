@@ -13,7 +13,7 @@
     
    <div class="image-container">
      <p>📷 Power BI Dashboard Screenshot:</p>
-      <img src="" alt="Power BI Project Screenshot">
+      ![HR Analytics](https://github.com/NehaKanabar/Power_BI_HR_AnalystSuite/assets/130577117/088a19e4-bc30-4d4e-8fe7-03fc0eb966d3)
       
    </div>
 
